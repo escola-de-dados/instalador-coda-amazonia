@@ -7,3 +7,4 @@ os
 re
 pathlib
 termcolor
+jupyter
